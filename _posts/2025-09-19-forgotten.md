@@ -19,4 +19,4 @@ Cast down thy humbled pride, and self-reproaching woe.
 
 Time hath not yet taught thy mind, so grasp with grace to seek and sway.
 
-Lest our saddening story of sorrow and decay
+Lest our saddening story of sorrow and decay.
