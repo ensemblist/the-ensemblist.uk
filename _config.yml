@@ -8,3 +8,21 @@ sass:
   style: compressed
 plugins:
   - jekyll-feed
+include:
+  - ".well-known"
+exclude:
+  - CNAME
+  - README.md
+  - LICENSE.md
+  - SECURITY.md
+  - .github/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/ 

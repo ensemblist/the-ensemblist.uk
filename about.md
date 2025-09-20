@@ -8,4 +8,4 @@ This is a collection of written works covering a range of themes and experiences
 
 The author uses this site as a creative outlet.
 
-content is available as an RSS feed. Other formats including ebooks may follow.
+Content is available as an RSS feed. Other formats including ebooks may follow.
