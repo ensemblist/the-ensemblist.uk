@@ -4,3 +4,7 @@ future: false
 markdown: kramdown
 permalink: /:title
 url: the-ensemblist.uk
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed
