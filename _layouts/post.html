@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Written works</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="assets/font.css" rel="stylesheet">
+        <link href="assets/style.css" rel="stylesheet">
+        <link rel="alternate" type="application/rss+xml" title="Written" href="/feed">
+    </head>
+
+    <body>
+        <article>
+            <h1>{{ page.title }}</h1>
+            <p class="permalink">
+                <a href="{{ page.url }}">Permalink</a> |
+                <a href="/">Archive</a> |
+                <a href="/feed">RSS</a> |
+                <a href="/about">About</a> |
+            </p>
+
+            {{ content }}
+        </article>
+    </body>
+
+</html>
