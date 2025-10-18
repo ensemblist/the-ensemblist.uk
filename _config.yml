@@ -4,6 +4,7 @@ future: false
 markdown: kramdown
 permalink: /:title
 url: the-ensemblist.uk
+title: The Ensemblist
 sass:
   style: compressed
 plugins:
