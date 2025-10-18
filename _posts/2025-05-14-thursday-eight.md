@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Clap"
+title: "Thursday, 20:00"
 date: 2025-05-14
 
 ---
