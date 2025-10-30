@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Ensemblist",
+  "short_name": "Ensemblist",
   "icons": [
     {
       "src": "/assets/i/web-app-manifest-192x192.png",
