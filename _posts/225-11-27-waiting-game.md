@@ -13,7 +13,7 @@ Every time I wake, dread fills my soul.
 Each anxious hour takes its toll.  
   
 I check my emails to see  
-if the insurance company will cover me  
+if the insurance will cover me  
    
 My battery drains away  
 Will they pay​​​​?  
