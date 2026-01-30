@@ -25,9 +25,7 @@ a {
 }
 
 a,
-strong,
-.user,
-.userref {
+strong {
     font-weight: 600;
 }
 
@@ -64,28 +62,8 @@ li {
     margin-bottom: 1rem;
 }
 
-.comment {
-    border-top: 0.2rem solid #f1f3f5;
-    font-size: var(--step--1);
-}
-
-.comments {
-    margin: 0 auto;
-    max-width: 50rem;
-}
-
 .permalink {
     color: #bdbdbd;
     margin-bottom: 4rem;
     margin-top: 0;
-}
-
-.user {
-    color: #1864ab;
-    display: block;
-    margin: 1rem 0;
-}
-
-.userref {
-    color: #5f3dc4;
 }
