@@ -1,5 +1,5 @@
 ---
-title: The Ensemblist
+title: Ensemblist
 layout: archive
 
 ---

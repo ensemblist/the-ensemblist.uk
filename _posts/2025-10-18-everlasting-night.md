@@ -15,12 +15,12 @@ Rise early, enjoy the view.
 Break of dawn,  
 Glide through the day.  
 Do anything, do it all,  
-And then it all fades away  
+And then it all fades away.  
 
 
 And the questions go unanswered  
 There is no surefire set solution  
-And the cure seems so far away  
+And the cure seems so far away.  
 
 
 As the sun shines brightly,  
@@ -37,9 +37,9 @@ Body putting on a fight.
 
 And the questions go unanswered  
 There is no surefire set solution  
-And the cure seems so far away  
+And the cure seems so far away.  
 
 
 And the questions go unanswered  
 There is no surefire set solution  
-And the cure seems so far away  
+And the cure seems so far away.  
